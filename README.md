@@ -20,7 +20,7 @@ Data came from https://www.kaggle.com/datasets/nikhilmittal/flight-fare-predicti
 - The plot shows a fairly decent linear relationship in the data points. The clump of data is a bit more spread out and more closely fits the reference line than linear regression. This is due to the better selection of features the model used.
 
 ![Figure9LinearRegression](https://github.com/danimonz/Flight-Price-Predictor/assets/56010144/d9e9089b-200a-443c-8955-b0ca823496dd)
--
+- The plot shows a very poor linear relationship for the linear regression model. Most of the data points are clumped in the bottom left corner of the plot. The relationship is very poor compared to the random forest regressor model.
 
 
 
